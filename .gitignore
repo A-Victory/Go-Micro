@@ -1,0 +1,6 @@
+workspace.code-workspace
+
+project/db-data
+
+# macOS-specific files
+.DS_Store
